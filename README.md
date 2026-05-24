@@ -1,4 +1,4 @@
-# Linux Whole-Disk XFS Setup
+# XFS Setup Whole-Disk Linux 
 
 > ⚠️ **Warning:** This formats an entire disk without a partition table. XFS cannot be shrunk. Never run this on your OS/boot disk.
 
